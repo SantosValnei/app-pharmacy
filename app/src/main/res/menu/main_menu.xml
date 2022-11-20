@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:title="@string/Cadastrar"
+    android:id="@+id/itemCadastrar"
+        android:orderInCategory="100"
+
+    />
+
+    <item
+        android:title="@string/Consultar"
+        android:id="@+id/itemConsultar"
+        android:orderInCategory="200"
+        />
+</menu>
